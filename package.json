@@ -1,0 +1,21 @@
+{
+  "name": "balam-running-backend",
+  "version": "1.0.0",
+  "description": "Backend services for balam running",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "miguel.angel.romero.gtz@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "lodash": "^4.17.11",
+    "pg": "^7.10.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.8.3"
+  }
+}
