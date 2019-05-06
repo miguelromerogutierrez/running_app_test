@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/react/*", "tests-js/*"],
+      "_": ["lodash"]
+    }
+  }
+}
